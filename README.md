@@ -5,6 +5,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin-0&count_bg=%2345DF22&title_bg=%23555555&icon=github.svg&icon_color=%23FFE4C4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://min-0.tistory.com/)
+<a href="https://www.instagram.com/m.__.y01/" target="_blank"><img src="https://img.shields.io/badge/#DD2A7B?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 
 <!--
