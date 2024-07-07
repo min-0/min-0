@@ -8,9 +8,10 @@ Hi 👋 min-0 😋
  
   <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=round-square&logo=Spring Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=round-square&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=round-square&logo=MongoDB&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=round-square&logo=Figma&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=round-square&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=round-square&logo=docker&logoColor=white"/>
 
+ 
 <p align="right">
 <a href="https://min-0.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-323232?style=round-square&logo=GitHub Sponsors&logoColor=white&link=https://min-0.tistory.com"/></a>
 <a href="https://www.instagram.com/m.__.y01/" target="_blank"><img src="https://img.shields.io/badge/Instagram-323232?style=round-square&logo=Instagram&logoColor=white"/></a>
