@@ -1,34 +1,22 @@
-Hi 👋 min-0 😋
+안녕하세요 👋
 ---
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin-0&count_bg=%23555555&title_bg=%23323232&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<!-- [![min0's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=min-0&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=min-0&layout=compact&theme=dracula) //개발 언어 표-->
-
-<h2 align="center"> 🎨 Stack <br> </p>
- 
-  <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=round-square&logo=Spring Boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=round-square&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=round-square&logo=MongoDB&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=round-square&logo=mariadb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=round-square&logo=docker&logoColor=white"/>
-
- 
-<p align="right">
-<a href="https://min-0.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-323232?style=round-square&logo=GitHub Sponsors&logoColor=white&link=https://min-0.tistory.com"/></a>
-<a href="https://www.instagram.com/m.__.y01/" target="_blank"><img src="https://img.shields.io/badge/Instagram-323232?style=round-square&logo=Instagram&logoColor=white"/></a>
-<!-- ### 🎸 Etc .. -->
 
 
-<!--
-**min-0/min-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+보이지 않아도 모든 걸 가능하게 만드는 백엔드 개발이 재밌습니다 😄
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,mysql&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=aws,githubactions,docker,&theme=light)](https://skillicons.dev)
+
+### Experience
+
+- <a href="https://www.letscareer.co.kr/">렛츠커리어</a> 백엔드 개발자(2025.09 ~ )
+- <a href="https://dnd.ac/">DND</a> 13기 백엔드 개발자(2025.07 ~ 2025.08) - `어디고(eodigo)` <a href = "https://github.com/dnd-side-project/dnd-13th-2-backend">외식/장보기 물가 비교 서비스</a>
+- <a href="https://dnd.ac/">DND</a> 11기 백엔드 개발자(2024.07 ~ 2024.08) - `맵땅(mapddang)` <a href = "https://github.com/dnd-side-project/dnd-11th-4-backend">국내 여행 지도 기록 서비스</a>
+- <a href="https://www.etri.re.kr/kor/main/main.etri">한국전자통신연구원</a> 연구연수생(2023.07 ~ 2023.08) - `MEC 기반 IoT 디바이스 관리 플랫폼 연구 개발`
+
+### Education
+
+- 인제대학교 컴퓨터공학부 졸업(2024.02)
